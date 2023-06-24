@@ -1,0 +1,19 @@
+User-agent: Mediapartners-Google
+
+Disallow:
+
+User-agent: *
+
+Disallow: /search?updated-min=
+
+Disallow: /search?updated-max=
+
+Disallow: /search/label/*?updated-min=
+
+Disallow: /search/label/*?updated-max=
+
+Disallow: /search/labels
+
+Allow: /
+
+Sitemap:https://rabeashaban.github.io/Rabea-Sh-EL-Zayat/atom.xml?redirect=false&start-index=1&max-results=500
